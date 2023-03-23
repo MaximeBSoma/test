@@ -1,2 +1,6 @@
-pip install streamlit
-pip install openpyxl
+scipy
+matplotlib
+numpy
+pandas
+streamlit
+openpyxl
