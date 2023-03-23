@@ -1,3 +1,4 @@
-import numpy as np
+import pandas as pd
 
-print("hello")
+df = pd.read_excel('Staffing.xlsx')
+st.dataframe(data=df)
