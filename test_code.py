@@ -1,8 +1,6 @@
 import pandas as pd
 import streamlit as st
 
-pip install openpyxl
-conda install openpyxl
 
 column_names = ['id_soma','lastName','firstName','town','profil','dispo','statut','numberOfResumes','diplome','commentaire','lien_CV','experience']
 
